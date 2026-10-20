@@ -40,10 +40,4 @@ luck is expected to produce across 10,996 trials — its Deflated Sharpe is
 
 ---
 
-### 👤 About the author
-
-**Prashant Shrestha** — Cybersecurity Specialist (CDI College, in progress) · 11+ years across SOC analysis, penetration testing & network security · Mississauga, ON 🇨🇦
-
-🔗 [LinkedIn](https://www.linkedin.com/in/cto-prashant/) · 💻 [GitHub](https://github.com/prashantshrestha01)
-
-*Building in public — every project here is my own lab work.*
+*Built by [Prashant Shrestha](https://github.com/prashantshrestha01) · Mississauga, ON 🇨🇦 · [LinkedIn](https://www.linkedin.com/in/cto-prashant/)*
