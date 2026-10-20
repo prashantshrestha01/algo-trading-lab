@@ -1,5 +1,8 @@
 # Trading Lab — multi-strategy backtest with honest multiple-testing correction
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Backtesting](https://img.shields.io/badge/Backtesting-0E7C3E?style=flat-square) ![Statistics](https://img.shields.io/badge/Deflated_Sharpe-6E40C9?style=flat-square)
+
+
 Built 2026-10-02. Educational research tool only — places no trades, touches no real money.
 
 ## Run it
@@ -34,3 +37,13 @@ Open `dashboard.html` in a browser (charts load from `outputs/`).
 bar. Best raw Sharpe 2.23 (RSI 2/20/70) sits *below* the 3.58 Sharpe that pure
 luck is expected to produce across 10,996 trials — its Deflated Sharpe is
 ≈ 0.000. The "most profitable of 10,000" is selection bias, not an edge.
+
+---
+
+### 👤 About the author
+
+**Prashant Shrestha** — Cybersecurity Specialist (CDI College, in progress) · 11+ years across SOC analysis, penetration testing & network security · Mississauga, ON 🇨🇦
+
+🔗 [LinkedIn](https://www.linkedin.com/in/cto-prashant/) · 💻 [GitHub](https://github.com/prashantshrestha01)
+
+*Building in public — every project here is my own lab work.*
