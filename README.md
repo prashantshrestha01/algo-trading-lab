@@ -40,4 +40,4 @@ luck is expected to produce across 10,996 trials — its Deflated Sharpe is
 
 ---
 
-*Built by [Prashant Shrestha](https://github.com/prashantshrestha01) · Mississauga, ON 🇨🇦 · [LinkedIn](https://www.linkedin.com/in/cto-prashant/)*
+*Built by [Prashant Shrestha](https://github.com/prashantshrestha01) · Mississauga, ON 🇨🇦 · [LinkedIn](https://www.linkedin.com/in/prashant-me/)*
